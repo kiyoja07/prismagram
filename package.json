@@ -1,0 +1,18 @@
+{
+  "name": "Prismagram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kiyoja07/prismagram.git",
+  "author": "YongJaeKim <kiyoja07@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "graphql-yoga": "^1.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server.js"
+  }
+}
