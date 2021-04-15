@@ -1,3 +1,3 @@
 Prismagram
 
-1.0 Setting up the project
+2.1 Datamodel with Prisma
