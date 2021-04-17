@@ -1,3 +1,3 @@
 Prismagram
 
-2.1 Datamodel with Prisma
+3.2 Create Account Resolver

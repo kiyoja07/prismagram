@@ -188,4 +188,5 @@ temp/
 
 
 .env
-generated 
+generated
+prisma.yml

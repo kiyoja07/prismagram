@@ -1,5 +1,5 @@
 endpoint: https://us1.prisma.sh/yongjaekim-3596a7/prismagram/dev
-datamodel: datamodel.prisma
+datamodel: datamodel.graphql
 
 generate:
   - generator: javascript-client
