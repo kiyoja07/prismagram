@@ -1,3 +1,3 @@
 Prismagram
 
-3.2 Create Account Resolver
+3.4 sendMail Function with Nodemailer
