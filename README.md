@@ -1,3 +1,3 @@
 Prismagram
 
-3.4 sendMail Function with Nodemailer
+3.5 Passport JWT part One
