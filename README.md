@@ -1,3 +1,3 @@
 Prismagram
 
-3.5 Passport JWT part One
+3.6 Passport JWT part Two
