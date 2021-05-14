@@ -1,3 +1,3 @@
 Prismagram
 
-3.8 toggleLike Resolver part One
+3.10 searchUser and searchImage resolver

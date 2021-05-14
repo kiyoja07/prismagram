@@ -4,3 +4,5 @@ export const isAuthenticated = (request) => {
   }
   return;
 };
+
+// {"Authorization": "Bearer 토큰"} 을 http header창에 넣기
