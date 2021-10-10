@@ -1,3 +1,3 @@
 Prismagram
 
-3.10 searchUser and searchImage resolver
+3.12 editUser seeUser Resolver
