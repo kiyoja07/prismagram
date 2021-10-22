@@ -1,3 +1,3 @@
 Prismagram
 
-3.12 editUser seeUser Resolver
+3.14 See Full Posts
