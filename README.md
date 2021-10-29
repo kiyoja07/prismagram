@@ -1,3 +1,5 @@
 Prismagram
 
-3.14 See Full Posts
+3.20 seeFullPost Refactoring
+
+Prisma 1 링크 : https://v1.prisma.io/
