@@ -1,6 +1,6 @@
 Prismagram
 
-5.5 Toastify and createAccount Mutation
+5.6 createAccount Mutation part Two
 
 Prisma 1 링크 : https://v1.prisma.io/
 
