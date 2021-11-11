@@ -1,6 +1,6 @@
 Prismagram
 
-3.31 Kill The Fragments
+5.5 Toastify and createAccount Mutation
 
 Prisma 1 링크 : https://v1.prisma.io/
 
