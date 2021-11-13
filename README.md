@@ -1,6 +1,6 @@
 Prismagram
 
-5.6 createAccount Mutation part Two
+6.2 Header Logic part Two
 
 Prisma 1 링크 : https://v1.prisma.io/
 
