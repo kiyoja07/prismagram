@@ -12,7 +12,7 @@ export default {
             id_in: [...following.map((user) => user.id), user.id], // following user list와 나의 user.id의 post를 가져옴.
           },
         },
-        orderBy: "createdAt_DESC", // 최신순 적용
+        orderBy: "createdAt_DESC",
       });
     },
   },

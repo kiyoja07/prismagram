@@ -1,6 +1,6 @@
 Prismagram
 
-6.2 Header Logic part Two
+7.2 Post Component part Two
 
 Prisma 1 링크 : https://v1.prisma.io/
 
