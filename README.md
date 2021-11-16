@@ -1,6 +1,6 @@
 Prismagram
 
-7.2 Post Component part Two
+7.6 createComment on Post Component part Two
 
 Prisma 1 링크 : https://v1.prisma.io/
 
