@@ -35,8 +35,8 @@
     "nodemon": "^2.0.7"
   },
   "scripts": {
-    "deploy": "prisma1 deploy",
-    "generate": "prisma1 generate",
+    "deploy": "prisma deploy",
+    "generate": "prisma generate",
     "prisma": "yarn run deploy && yarn run generate",
     "dev": "nodemon --exec babel-node src/server.js",
     "prebuild": "yarn run generate",
