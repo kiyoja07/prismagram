@@ -189,5 +189,4 @@ temp/
 
 .env
 generated
-prisma.yml
 build
